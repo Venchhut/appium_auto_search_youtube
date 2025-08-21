@@ -1,8 +1,3 @@
-C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.csproj.AssemblyReference.cache
-C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.AssemblyInfoInputs.cache
-C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.AssemblyInfo.cs
-C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.csproj.CoreCompileInputs.cache
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\testhost.dll
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\testhost.exe
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\NUnit3.TestAdapter.dll
@@ -16,6 +11,7 @@ C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appiu
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\Youtube_search_auto_appium.dll
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\Youtube_search_auto_appium.pdb
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\Appium.Net.dll
+C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -99,6 +95,12 @@ C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appiu
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\runtimes\linux\native\selenium-manager
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\runtimes\osx\native\selenium-manager
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\bin\Debug\net8.0\runtimes\win\native\selenium-manager.exe
+C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.csproj.AssemblyReference.cache
+C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.AssemblyInfoInputs.cache
+C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.AssemblyInfo.cs
+C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.csproj.CoreCompileInputs.cache
+C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.sourcelink.json
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_.F0166742.Up2Date
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\Youtube_search_auto_appium.dll
 C:\Users\vench\source\repos\Youtube_search_auto_appium\Youtube_search_auto_appium\obj\Debug\net8.0\refint\Youtube_search_auto_appium.dll

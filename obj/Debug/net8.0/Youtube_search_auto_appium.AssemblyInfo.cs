@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Youtube_search_auto_appium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c444a670f0c8244a56acb33074f9fb6e3513a5a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Youtube_search_auto_appium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Youtube_search_auto_appium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

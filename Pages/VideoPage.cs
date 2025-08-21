@@ -22,7 +22,6 @@ namespace Youtube_search_auto_appium.Pages
             _wait = new WebDriverWait(_driver, TimeSpan.FromSeconds(20));
         }
 
-        // Hành động: kiểm tra xem video có đang phát không
         public bool IsVideoPlayerDisplayed()
         {
             try

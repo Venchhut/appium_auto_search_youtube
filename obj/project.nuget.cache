@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Wf9mWKwJ+cw=",
+  "dgSpecHash": "POFI5QzrNfA=",
   "success": true,
   "projectFilePath": "C:\\Users\\vench\\source\\repos\\Youtube_search_auto_appium\\Youtube_search_auto_appium\\Youtube_search_auto_appium.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vench\\.nuget\\packages\\appium.webdriver\\8.0.0\\appium.webdriver.8.0.0.nupkg.sha512",
     "C:\\Users\\vench\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\vench\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\vench\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\vench\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "C:\\Users\\vench\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

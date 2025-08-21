@@ -12,7 +12,10 @@ namespace Youtube_search_auto_appium.Pages
         private readonly AndroidDriver _driver;
         private readonly WebDriverWait _wait;
 
-        // Định vị phần tử
+        
+
+        private By Notification => MobileBy.XPath("//android.widget.Button[@resource-id=\"com.android.permissioncontroller:id/permission_deny_button\"]");
+
         private By SearchIcon => MobileBy.XPath("//android.widget.ImageView[@content-desc=\"Search\"]");
 
         private By SearchInput => MobileBy.XPath("//android.widget.EditText[@resource-id=\"com.google.android.youtube:id/search_edit_text\"]");
@@ -25,6 +28,16 @@ namespace Youtube_search_auto_appium.Pages
 
         public SearchResultsPage SearchFor(string searchTerm)
         {
+            
+            try
+            {
+                _wait.Until(d => d.FindElement(Notification)).Click();
+                _driver.Navigate().Back();
+            }
+            catch (NoSuchElementException)
+            {
+                Console.WriteLine("No notification permission dialog found.");
+            }
             _wait.Until(d => d.FindElement(SearchIcon)).Click();
 
             var searchBox = _wait.Until(d => d.FindElement(SearchInput));
